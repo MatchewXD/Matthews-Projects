@@ -1,1 +1,17 @@
-/* Not empty */
+.box {
+  border: 2px solid black;
+}
+
+/* List */
+ul {
+  list-style-type: none;
+}
+
+/* Buttons */
+.btn {
+  text-decoration: none;
+}
+
+a:visited {
+  color: inherit;
+}
